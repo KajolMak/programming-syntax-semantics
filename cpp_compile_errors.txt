@@ -1,0 +1,7 @@
+cpp_syntax_error.cpp:5:17: error: use of undeclared identifier 'o'
+    int total = o; // deliberate error: 'o' (letter) instead of 0
+                ^
+cpp_syntax_error.cpp:17:12: error: use of undeclared identifier 'o'
+    return o; // deliberate error here too
+           ^
+2 errors generated.
